@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+}
+
+table{
+    margin: auto;
+}
+
+table td{
+    border: 3px solid rgb(95, 92, 92);
+    width:150px;
+    height:150px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.3em;
+    background-color: #ffc107;
+    border: none;
+    border-radius: .25rem;
+}
+
+button:hover{
+    background-color: #ffc107af;
+}
+
+p{
+    font-family: 'Hubballi', cursive;
+    font-size: 5em;
+}
